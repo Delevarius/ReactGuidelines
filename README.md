@@ -59,7 +59,7 @@ AwesomePage/
   - `import UserContainer from '...'`
   - `import { User as UserContainer } from '...'`
 
-[:arrow_up: Back to top][table-of-contents]
+[:arrow_up: Back to top](#table-of-contents)
 
 # Project organization
 
@@ -92,7 +92,7 @@ components. They represent the application routes and most times are
 displayed by a router. Pages are also responsible for handling container
 components callbacks and flowing data into children containers.
 
-[:arrow_up: Back to top][table-of-contents]
+[:arrow_up: Back to top](#table-of-contents)
 
 # Code standards
 
@@ -201,6 +201,6 @@ Good
 
 
 
-[:arrow_up: Back to top][table-of-contents]
+[:arrow_up: Back to top](#table-of-contents)
 
 ---
